@@ -25,7 +25,7 @@ from urllib.request import Request, urlopen
 
 DATA_DIR = "data"
 MAIN_OUTFILE = f"{DATA_DIR}/tide_sites_latest.json"
-NUM_TIDES = 8        # how many upcoming highs/lows to keep per station
+NUM_TIDES = None     # unlimited upcoming highs/lows per station
 DAYS_AHEAD = 90      # forecast window sent to ERDDAP (3 months)
 
 
@@ -102,20 +102,18 @@ def collect_stations(rows: list, idx: dict, now_utc: datetime) -> list[dict]:
                 "stationID": station_id,
                 "longitude": float(row[idx["longitude"]]),
                 "latitude": float(row[idx["latitude"]]),
-                "next_8_high_tides_utc": [],
-                "next_8_low_tides_utc": [],
+                "high_tides_utc": [],
+                "low_tides_utc": [],
             },
         )
 
-        # Append to the appropriate list, keeping it sorted and capped at NUM_TIDES
+        # Append to the appropriate list, keeping it sorted and unlimited
         bucket: List[str] = (
-            st["next_8_high_tides_utc"] if cat == "HIGH" else st["next_8_low_tides_utc"]
+            st["high_tides_utc"] if cat == "HIGH" else st["low_tides_utc"]
         )
         if ts_str not in bucket:
             bucket.append(ts_str)
             bucket.sort()
-            if len(bucket) > NUM_TIDES:
-                bucket.pop()  # drop the furthest entry if over the cap
 
     return sorted(stations.values(), key=lambda d: d["stationID"])
 
