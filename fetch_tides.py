@@ -26,7 +26,7 @@ from urllib.request import Request, urlopen
 DATA_DIR = "data"
 MAIN_OUTFILE = f"{DATA_DIR}/tide_sites_latest.json"
 NUM_TIDES = 8        # how many upcoming highs/lows to keep per station
-DAYS_AHEAD = 6       # forecast window sent to ERDDAP
+DAYS_AHEAD = 90      # forecast window sent to ERDDAP (3 months)
 
 
 # ---------------------------------------------------------------------------
