@@ -2,15 +2,15 @@ name: Fetch tide predictions
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # every day at 06:00 UTC
-  workflow_dispatch:        # allow manual trigger from the Actions tab
+    - cron: "0 6 * * *"  # Runs every day at 06:00 UTC
+  workflow_dispatch:     # Allows you to run this manually from the Actions tab
 
 jobs:
-  fetch:
+  fetch_and_match:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # needed to push updated data files back to the repo
+      contents: write    # Required to push changes back to the repository
 
     steps:
       - name: Check out repo
@@ -24,11 +24,21 @@ jobs:
       - name: Run fetch script
         run: python fetch_tides.py
 
-      - name: Commit & push updated data
+      - name: Run matcher script
+        run: python matcher.py
+
+      - name: Commit and push updated data
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          # Only commit if something actually changed
-          git diff --cached --quiet || git commit -m "chore: update tide data [skip ci]"
-          git push
+          
+          # Stage all changes (new tide data and matched results)
+          git add .
+          
+          # Only commit and push if there are actual changes to save
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update tide data and matches [skip ci]"
+            git push
+          else
+            echo "No changes detected, skipping push."
+          fi
