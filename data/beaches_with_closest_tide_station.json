@@ -1,0 +1,1436 @@
+{
+  "Loughrea Lake": {
+    "beach_id": "IEWEBWL29_194_0100",
+    "latitude": 53.18590786697443,
+    "longitude": -8.563229460472572,
+    "closest_tide_station": "Galway"
+  },
+  "Garrylucas, White Strand": {
+    "beach_id": "IESWBWC090_0000_0300",
+    "latitude": 51.64010606196164,
+    "longitude": -8.569455022772468,
+    "closest_tide_station": "Kinsale"
+  },
+  "Garryvoe": {
+    "beach_id": "IESWBWC040_0000_0100",
+    "latitude": 51.857749316155555,
+    "longitude": -8.002322263639252,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Ballymoney, North Beach": {
+    "beach_id": "IESEBWC010_0000_0500",
+    "latitude": 52.68021540947974,
+    "longitude": -6.20098345631411,
+    "closest_tide_station": "Arklow"
+  },
+  "Morriscastle": {
+    "beach_id": "IESEBWC010_0000_0300",
+    "latitude": 52.5137270354555,
+    "longitude": -6.238081251431678,
+    "closest_tide_station": "Wexford"
+  },
+  "Port, Lurganboy": {
+    "beach_id": "IENBBWC025_0000_0300",
+    "latitude": 53.82704731530891,
+    "longitude": -6.257430568672192,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Brittas Bay North": {
+    "beach_id": "IEEABWC140_0000_0300",
+    "latitude": 52.88214582393999,
+    "longitude": -6.05677381074796,
+    "closest_tide_station": "Arklow"
+  },
+  "The Cut, Lough Lene": {
+    "beach_id": "IEEABWL07_274_0100",
+    "latitude": 53.65942983954041,
+    "longitude": -7.1958124994647585,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Ballyallia Lake, Ennis": {
+    "beach_id": "IESHBWL27_72_0100",
+    "latitude": 52.8750947697099,
+    "longitude": -8.9712330750178,
+    "closest_tide_station": "Lahinch"
+  },
+  "Ballycuggeran": {
+    "beach_id": "IESHBWL25_191a_0300",
+    "latitude": 52.837792143538984,
+    "longitude": -8.464402111917241,
+    "closest_tide_station": "Galway"
+  },
+  "Bathing Place at Portumna": {
+    "beach_id": "IESHBWL25_191a_0100",
+    "latitude": 53.08215747947041,
+    "longitude": -8.210413888476625,
+    "closest_tide_station": "Galway"
+  },
+  "Keeldra Lough": {
+    "beach_id": "IESHBWL26_624_0100",
+    "latitude": 53.91903049843133,
+    "longitude": -7.772891272957993,
+    "closest_tide_station": "Sligo"
+  },
+  "Kilkee": {
+    "beach_id": "IESHBWC070_0000_0400",
+    "latitude": 52.680523734779854,
+    "longitude": -9.650151522897943,
+    "closest_tide_station": "Carrigaholt"
+  },
+  "Lilliput, Lough Ennell": {
+    "beach_id": "IESHBWL25_188_0100",
+    "latitude": 53.448689185578225,
+    "longitude": -7.434026468889726,
+    "closest_tide_station": "Tom_Clarke_Bridge"
+  },
+  "Mountshannon, Lough Derg": {
+    "beach_id": "IESHBWL25_191a_0200",
+    "latitude": 52.92930445911057,
+    "longitude": -8.428160048669225,
+    "closest_tide_station": "Galway"
+  },
+  "Portnashangan, Lough Owel": {
+    "beach_id": "IESHBWL26_703_0100",
+    "latitude": 53.57522424013076,
+    "longitude": -7.367907232498908,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "An Trá Mór, Coill Rua, Indreabhán": {
+    "beach_id": "IEWEBWC010_0000_0300",
+    "latitude": 53.24092210847855,
+    "longitude": -9.356267259520088,
+    "closest_tide_station": "Rossaveel"
+  },
+  "Céibh an Spidéil": {
+    "beach_id": "IEWEBWT180_0100_0100",
+    "latitude": 53.24063430305678,
+    "longitude": -9.30967381284433,
+    "closest_tide_station": "Rossaveel"
+  },
+  "Bertra Beach, Murrisk": {
+    "beach_id": "IEWEBWC350_0000_0100",
+    "latitude": 53.78931477795457,
+    "longitude": -9.661196836419013,
+    "closest_tide_station": "Roonagh"
+  },
+  "Bishopsquarter": {
+    "beach_id": "IEWEBWC110_0000_0100",
+    "latitude": 53.134412648746405,
+    "longitude": -9.125945909700073,
+    "closest_tide_station": "Galway"
+  },
+  "Carrowmore Beach, Louisburgh": {
+    "beach_id": "IEWEBWC340_0000_0400",
+    "latitude": 53.77104570957565,
+    "longitude": -9.824487107471729,
+    "closest_tide_station": "Roonagh"
+  },
+  "Cill Mhuirbhigh, Inis Mór": {
+    "beach_id": "IEWEBWC010_0000_0200",
+    "latitude": 53.13174289095701,
+    "longitude": -9.749102876230841,
+    "closest_tide_station": "Inishmore"
+  },
+  "Dooega Beach, Achill Island": {
+    "beach_id": "IEWEBWC250_0000_0300",
+    "latitude": 53.92072970851196,
+    "longitude": -10.020271888110114,
+    "closest_tide_station": "Achill_Island"
+  },
+  "Dugort Beach, Achill Island": {
+    "beach_id": "IEWEBWC360_0000_0400",
+    "latitude": 54.01273295157339,
+    "longitude": -10.024132064108967,
+    "closest_tide_station": "Achill_Island"
+  },
+  "Elly Bay, Belmullet": {
+    "beach_id": "IEWEBWC360_0000_0200",
+    "latitude": 54.161841799565984,
+    "longitude": -10.087198818058788,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Enniscrone Beach": {
+    "beach_id": "IEWEBWC420_0000_0100",
+    "latitude": 54.21237048617722,
+    "longitude": -9.10370520520907,
+    "closest_tide_station": "Sligo"
+  },
+  "Golden Strand, Achill Island": {
+    "beach_id": "IEWEBWC360_0000_0300",
+    "latitude": 54.014232168855926,
+    "longitude": -9.994651858212386,
+    "closest_tide_station": "Achill_Island"
+  },
+  "Goirtín, Cloch na Rón": {
+    "beach_id": "IEWEBWC230_0000_0100",
+    "latitude": 53.376313850823855,
+    "longitude": -9.959696312306217,
+    "closest_tide_station": "Letterfrack"
+  },
+  "Keel Beach, Achill Island": {
+    "beach_id": "IEWEBWC250_0000_0200",
+    "latitude": 53.97184424422294,
+    "longitude": -10.076989236933489,
+    "closest_tide_station": "Achill_Island"
+  },
+  "Keem Beach, Achill Island": {
+    "beach_id": "IEWEBWC250_0000_0100",
+    "latitude": 53.96655369114392,
+    "longitude": -10.193647664221904,
+    "closest_tide_station": "Achill_Island"
+  },
+  "Ross Beach, Killala": {
+    "beach_id": "IEWEBWC420_0000_0200",
+    "latitude": 54.231982277051166,
+    "longitude": -9.197896592494674,
+    "closest_tide_station": "Sligo"
+  },
+  "Old Head Beach, Louisburgh": {
+    "beach_id": "IEWEBWC340_0000_0300",
+    "latitude": 53.777176082572545,
+    "longitude": -9.76857720107395,
+    "closest_tide_station": "Roonagh"
+  },
+  "Mullaghroe Beach, Belmullet": {
+    "beach_id": "IEWEBWC360_0000_0100",
+    "latitude": 54.13867444858836,
+    "longitude": -10.07538258279523,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Mulranny Beach": {
+    "beach_id": "IEWEBWC340_0000_0200",
+    "latitude": 53.89717303299271,
+    "longitude": -9.784701290370647,
+    "closest_tide_station": "Clare_Island"
+  },
+  "Trá na bhForbacha, Na Forbacha": {
+    "beach_id": "IEWEBWC100_0000_0100",
+    "latitude": 53.247460908761525,
+    "longitude": -9.225388448513215,
+    "closest_tide_station": "Galway"
+  },
+  "Rinroe Beach, Carrowtigue": {
+    "beach_id": "IEWEBWC400_0000_0100",
+    "latitude": 54.301995590022955,
+    "longitude": -9.843063564986421,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Rosses Point Beach": {
+    "beach_id": "IEWEBWC450_0000_0100",
+    "latitude": 54.30898240143226,
+    "longitude": -8.574402585485437,
+    "closest_tide_station": "Sligo"
+  },
+  "Salthill Beach": {
+    "beach_id": "IEWEBWC170_0000_0200",
+    "latitude": 53.2545057663061,
+    "longitude": -9.09222196612564,
+    "closest_tide_station": "Galway"
+  },
+  "Silverstrand Beach": {
+    "beach_id": "IEWEBWC170_0000_0100",
+    "latitude": 53.24981075839505,
+    "longitude": -9.126515488683602,
+    "closest_tide_station": "Galway"
+  },
+  "Trá na mBan, An Spidéal": {
+    "beach_id": "IEWEBWC010_0000_0400",
+    "latitude": 53.243205315667744,
+    "longitude": -9.296420327381481,
+    "closest_tide_station": "Galway"
+  },
+  "Clare Island, Louisburgh": {
+    "beach_id": "IEWEBWC340_0000_0100",
+    "latitude": 53.80070451613458,
+    "longitude": -9.952489441176292,
+    "closest_tide_station": "Clare_Island"
+  },
+  "Trá an Dóilín, An Ceathrú Rua": {
+    "beach_id": "IEWEBWC200_0000_0100",
+    "latitude": 53.24693283983561,
+    "longitude": -9.629732772769746,
+    "closest_tide_station": "Rossaveel"
+  },
+  "Trá Chaladh Fínis, Carna": {
+    "beach_id": "IEWEBWC010_0000_0100",
+    "latitude": 53.301027625461614,
+    "longitude": -9.782519208735124,
+    "closest_tide_station": "Rossaveel"
+  },
+  "Traught, Kinvara": {
+    "beach_id": "IEWEBWC160_0000_0100",
+    "latitude": 53.17104813473692,
+    "longitude": -8.988129369875988,
+    "closest_tide_station": "Galway"
+  },
+  "Baile an Sceilg (Ballinskelligs)": {
+    "beach_id": "IESWBWC200_0000_0100",
+    "latitude": 51.82146795753933,
+    "longitude": -10.27093684675725,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Barley Cove": {
+    "beach_id": "IESWBWC150_0000_0200",
+    "latitude": 51.46648345329832,
+    "longitude": -9.776798398254467,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Youghal Claycastle": {
+    "beach_id": "IESWBWC020_0000_0200",
+    "latitude": 51.933516401357934,
+    "longitude": -7.858974309373406,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Doire Fhíonáin (Derrynane)": {
+    "beach_id": "IESWBWC150_0000_0100",
+    "latitude": 51.75899254101021,
+    "longitude": -10.138304176791033,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Fountainstown": {
+    "beach_id": "IESWBWC050_0000_0100",
+    "latitude": 51.77474690768218,
+    "longitude": -8.31046997906749,
+    "closest_tide_station": "Crosshaven"
+  },
+  "Garretstown": {
+    "beach_id": "IESWBWC090_0000_0200",
+    "latitude": 51.64231297246246,
+    "longitude": -8.579478938271937,
+    "closest_tide_station": "Kinsale"
+  },
+  "Inch (Kerry)": {
+    "beach_id": "IESWBWC230_0000_0200",
+    "latitude": 52.13591934650637,
+    "longitude": -9.983102516586241,
+    "closest_tide_station": "Fenit"
+  },
+  "Inchydoney West Beach": {
+    "beach_id": "IESWBWC100_0000_0100",
+    "latitude": 51.594926278798276,
+    "longitude": -8.863807663073953,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Trá na hUíne (Inny Strand, Waterville)": {
+    "beach_id": "IESWBWC200_0000_0200",
+    "latitude": 51.8395557292879,
+    "longitude": -10.207577878649762,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Kells": {
+    "beach_id": "IESWBWC230_0000_0400",
+    "latitude": 52.02577725093567,
+    "longitude": -10.104351134752974,
+    "closest_tide_station": "Dingle"
+  },
+  "Owenahincha, Little Island Strand": {
+    "beach_id": "IESWBWC110_0000_0200",
+    "latitude": 51.56342990162665,
+    "longitude": -8.992608467236838,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Redbarn": {
+    "beach_id": "IESWBWC020_0000_0100",
+    "latitude": 51.92431829338989,
+    "longitude": -7.870907951480668,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Rossbeigh, White Strand": {
+    "beach_id": "IESWBWC230_0000_0300",
+    "latitude": 52.06191831174249,
+    "longitude": -9.97728557869528,
+    "closest_tide_station": "Dingle"
+  },
+  "Tragumna": {
+    "beach_id": "IESWBWC010_0000_0100",
+    "latitude": 51.50148780304512,
+    "longitude": -9.26585420091012,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Fionntrá (Ventry)": {
+    "beach_id": "IESWBWC230_0000_0100",
+    "latitude": 52.13047522922737,
+    "longitude": -10.36331323827034,
+    "closest_tide_station": "Dingle"
+  },
+  "Warren, Cregane Strand": {
+    "beach_id": "IESWBWC110_0000_0100",
+    "latitude": 51.56485344902193,
+    "longitude": -9.013247463969101,
+    "closest_tide_station": "Union_Hall"
+  },
+  "White Strand, Caherciveen": {
+    "beach_id": "IESWBWC220_0000_0100",
+    "latitude": 51.94371239651066,
+    "longitude": -10.276292496143208,
+    "closest_tide_station": "Dingle"
+  },
+  "Youghal Front Strand Beach": {
+    "beach_id": "IESWBWC020_0000_0300",
+    "latitude": 51.93835489544153,
+    "longitude": -7.847326910372029,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Ardmore Beach": {
+    "beach_id": "IESEBWC050_0000_0100",
+    "latitude": 51.95430083853206,
+    "longitude": -7.7214548701746555,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Bunmahon Beach": {
+    "beach_id": "IESEBWC050_0000_0200",
+    "latitude": 52.13806133077478,
+    "longitude": -7.366860733641379,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Clonea Beach": {
+    "beach_id": "IESEBWC140_0000_0100",
+    "latitude": 52.09662993753817,
+    "longitude": -7.541090108155786,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Courtown, North Beach": {
+    "beach_id": "IESEBWC010_0000_0400",
+    "latitude": 52.647828875179535,
+    "longitude": -6.225630513821675,
+    "closest_tide_station": "Arklow"
+  },
+  "Curracloe": {
+    "beach_id": "IESEBWC010_0000_0200",
+    "latitude": 52.38825683480793,
+    "longitude": -6.362007739234601,
+    "closest_tide_station": "Wexford"
+  },
+  "Duncannon": {
+    "beach_id": "IESEBWT100_0100_0100",
+    "latitude": 52.21986549900432,
+    "longitude": -6.933471248293555,
+    "closest_tide_station": "Dunmore"
+  },
+  "Counsellors' Strand, Dunmore East": {
+    "beach_id": "IESEBWC100_0000_0100",
+    "latitude": 52.15566528269466,
+    "longitude": -6.9911005439426,
+    "closest_tide_station": "Dunmore"
+  },
+  "Dunmore Strand, Dunmore East": {
+    "beach_id": "IESEBWC100_0000_0200",
+    "latitude": 52.1543424345467,
+    "longitude": -6.994052672050295,
+    "closest_tide_station": "Dunmore"
+  },
+  "Rosslare Strand": {
+    "beach_id": "IESEBWC010_0000_0100",
+    "latitude": 52.273314091488515,
+    "longitude": -6.385340366512409,
+    "closest_tide_station": "Rosslare"
+  },
+  "Tramore Beach": {
+    "beach_id": "IESEBWC110_0000_0100",
+    "latitude": 52.158225978717184,
+    "longitude": -7.14447109933767,
+    "closest_tide_station": "Dunmore"
+  },
+  "Balbriggan, Front Strand Beach": {
+    "beach_id": "IEEABWC020_0000_0600",
+    "latitude": 53.61271916910061,
+    "longitude": -6.182419803603166,
+    "closest_tide_station": "Skerries"
+  },
+  "Bray South Promenade": {
+    "beach_id": "IEEABWC100_0000_0300",
+    "latitude": 53.20230395340419,
+    "longitude": -6.095746579878984,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Brittas Bay South": {
+    "beach_id": "IEEABWC140_0000_0200",
+    "latitude": 52.87759101018165,
+    "longitude": -6.060171284320843,
+    "closest_tide_station": "Arklow"
+  },
+  "Clogga": {
+    "beach_id": "IEEABWC140_0000_0100",
+    "latitude": 52.762025182311,
+    "longitude": -6.145567057488734,
+    "closest_tide_station": "Arklow"
+  },
+  "Dollymount Strand": {
+    "beach_id": "IEEABWC090_0000_0400",
+    "latitude": 53.366267704190875,
+    "longitude": -6.14859571546539,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Donabate, Balcarrick Beach": {
+    "beach_id": "IEEABWC020_0000_0100",
+    "latitude": 53.47640214467342,
+    "longitude": -6.115785541830854,
+    "closest_tide_station": "Howth"
+  },
+  "Greystones South": {
+    "beach_id": "IEEABWC100_0000_0200",
+    "latitude": 53.142758868831045,
+    "longitude": -6.057953610397016,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Killiney": {
+    "beach_id": "IEEABWC100_0000_0400",
+    "latitude": 53.257218303516055,
+    "longitude": -6.111395149977247,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Laytown/Bettystown": {
+    "beach_id": "IEEABWC020_0000_0700",
+    "latitude": 53.70053314108035,
+    "longitude": -6.237390357575819,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Loughshinny Beach": {
+    "beach_id": "IEEABWC020_0000_0400",
+    "latitude": 53.546279344266544,
+    "longitude": -6.080816227129753,
+    "closest_tide_station": "Skerries"
+  },
+  "Portmarnock, Velvet Strand Beach": {
+    "beach_id": "IEEABWC070_0000_0200",
+    "latitude": 53.43280737288964,
+    "longitude": -6.121898507404567,
+    "closest_tide_station": "Howth"
+  },
+  "Portrane, the Brook Beach": {
+    "beach_id": "IEEABWC020_0000_0200",
+    "latitude": 53.495137819080284,
+    "longitude": -6.107223904969345,
+    "closest_tide_station": "Skerries"
+  },
+  "Rush, South Beach": {
+    "beach_id": "IEEABWC020_0000_0300",
+    "latitude": 53.51532449114873,
+    "longitude": -6.095016286121852,
+    "closest_tide_station": "Skerries"
+  },
+  "Sandymount Strand": {
+    "beach_id": "IEEABWC090_0000_0300",
+    "latitude": 53.32529456486071,
+    "longitude": -6.20652150710565,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Seapoint (Dublin)": {
+    "beach_id": "IEEABWC090_0000_0100",
+    "latitude": 53.29694039136859,
+    "longitude": -6.158616462457382,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Silver Strand": {
+    "beach_id": "IEEABWC100_0000_0100",
+    "latitude": 52.953336424678966,
+    "longitude": -6.011946370126093,
+    "closest_tide_station": "Wicklow"
+  },
+  "Skerries, South Beach": {
+    "beach_id": "IEEABWC020_0000_0500",
+    "latitude": 53.58260125153121,
+    "longitude": -6.102773021391577,
+    "closest_tide_station": "Skerries"
+  },
+  "Sutton, Burrow Beach": {
+    "beach_id": "IEEABWC070_0000_0100",
+    "latitude": 53.39315123085612,
+    "longitude": -6.096960996371509,
+    "closest_tide_station": "Howth"
+  },
+  "Clogherhead": {
+    "beach_id": "IENBBWC025_0000_0200",
+    "latitude": 53.78561327155057,
+    "longitude": -6.234598385479559,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Seapoint (Louth)": {
+    "beach_id": "IENBBWC025_0000_0100",
+    "latitude": 53.756137265587434,
+    "longitude": -6.241718415686047,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Shelling Hill/Templetown": {
+    "beach_id": "IENBBWC040_0000_0100",
+    "latitude": 53.98108045176811,
+    "longitude": -6.147297398363052,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Ballyhiernan, Fanad": {
+    "beach_id": "IENWBWC100_0000_0100",
+    "latitude": 55.24982428950173,
+    "longitude": -7.703103817284234,
+    "closest_tide_station": "Buncranna"
+  },
+  "Bundoran": {
+    "beach_id": "IENWBWC020_0000_0100",
+    "latitude": 54.48259076954315,
+    "longitude": -8.278343321331489,
+    "closest_tide_station": "Killybegs"
+  },
+  "Carrickfinn": {
+    "beach_id": "IENWBWC160_0000_0200",
+    "latitude": 55.04244983270722,
+    "longitude": -8.348233410730753,
+    "closest_tide_station": "Aranmore"
+  },
+  "Culdaff": {
+    "beach_id": "IENWBWC230_0000_0200",
+    "latitude": 55.293970309136725,
+    "longitude": -7.146344169778584,
+    "closest_tide_station": "Malin_Head"
+  },
+  "Downings": {
+    "beach_id": "IENWBWC190_0000_0100",
+    "latitude": 55.19290256548708,
+    "longitude": -7.841762466838683,
+    "closest_tide_station": "Tory_Island"
+  },
+  "Drumnatinny": {
+    "beach_id": "IENWBWC100_0000_0200",
+    "latitude": 55.16298284667474,
+    "longitude": -8.087485393124368,
+    "closest_tide_station": "Tory_Island"
+  },
+  "Fintra": {
+    "beach_id": "IENWBWC070_0000_0100",
+    "latitude": 54.635128280992056,
+    "longitude": -8.487836854025065,
+    "closest_tide_station": "Killybegs"
+  },
+  "Portnablagh": {
+    "beach_id": "IENWBWC190_0000_0300",
+    "latitude": 55.18102840155074,
+    "longitude": -7.927230750466944,
+    "closest_tide_station": "Tory_Island"
+  },
+  "Lady's Bay, Buncrana": {
+    "beach_id": "IENWBWT220_0400_0100",
+    "latitude": 55.131435463337226,
+    "longitude": -7.463494014808072,
+    "closest_tide_station": "Buncranna"
+  },
+  "Lisfannon": {
+    "beach_id": "IENWBWC220_0000_0100",
+    "latitude": 55.0975236335834,
+    "longitude": -7.481461071235821,
+    "closest_tide_station": "Buncranna"
+  },
+  "Marble Hill": {
+    "beach_id": "IENWBWC190_0000_0200",
+    "latitude": 55.176813628019204,
+    "longitude": -7.8991601490725385,
+    "closest_tide_station": "Tory_Island"
+  },
+  "Mullaghmore Beach": {
+    "beach_id": "IENWBWC010_0000_0300",
+    "latitude": 54.4602853870631,
+    "longitude": -8.44868774512595,
+    "closest_tide_station": "Sligo"
+  },
+  "Rossnowlagh": {
+    "beach_id": "IENWBWC010_0000_0200",
+    "latitude": 54.553597175024635,
+    "longitude": -8.215260258881013,
+    "closest_tide_station": "Killybegs"
+  },
+  "Murvagh": {
+    "beach_id": "IENWBWC010_0000_0100",
+    "latitude": 54.6048963503178,
+    "longitude": -8.166136619465279,
+    "closest_tide_station": "Killybegs"
+  },
+  "Naran": {
+    "beach_id": "IENWBWC120_0000_0100",
+    "latitude": 54.84057836340935,
+    "longitude": -8.45068282709879,
+    "closest_tide_station": "Aranmore"
+  },
+  "Portarthur, Derrybeg": {
+    "beach_id": "IENWBWC160_0000_0100",
+    "latitude": 55.09996596766066,
+    "longitude": -8.314645796839407,
+    "closest_tide_station": "Aranmore"
+  },
+  "Killahoey": {
+    "beach_id": "IENWBWC190_0000_0400",
+    "latitude": 55.18699614578504,
+    "longitude": -7.952463777557224,
+    "closest_tide_station": "Tory_Island"
+  },
+  "Portsalon": {
+    "beach_id": "IENWBWC220_0000_0300",
+    "latitude": 55.19088185061989,
+    "longitude": -7.607470874997424,
+    "closest_tide_station": "Buncranna"
+  },
+  "Rathmullan": {
+    "beach_id": "IENWBWC220_0000_0200",
+    "latitude": 55.09663280046129,
+    "longitude": -7.529732618901889,
+    "closest_tide_station": "Buncranna"
+  },
+  "Stroove": {
+    "beach_id": "IENWBWC230_0000_0100",
+    "latitude": 55.2273545969738,
+    "longitude": -6.927674284151397,
+    "closest_tide_station": "Malin_Head"
+  },
+  "Ballybunnion North ": {
+    "beach_id": "IESHBWC060_0000_0200",
+    "latitude": 52.51348176237717,
+    "longitude": -9.679447486791405,
+    "closest_tide_station": "Carrigaholt"
+  },
+  "Ballybunnion South": {
+    "beach_id": "IESHBWC060_0000_0300",
+    "latitude": 52.51063450576555,
+    "longitude": -9.682491160775427,
+    "closest_tide_station": "Carrigaholt"
+  },
+  "Ballyheigue": {
+    "beach_id": "IESHBWC040_0000_0100",
+    "latitude": 52.38721890162267,
+    "longitude": -9.839432737947021,
+    "closest_tide_station": "Fenit"
+  },
+  "Banna Strand": {
+    "beach_id": "IESHBWC040_0000_0200",
+    "latitude": 52.33837007917088,
+    "longitude": -9.837757163054306,
+    "closest_tide_station": "Fenit"
+  },
+  "Cappagh Pier, Kilrush": {
+    "beach_id": "IESHBWC060_0000_0100",
+    "latitude": 52.62835285806389,
+    "longitude": -9.499461456069634,
+    "closest_tide_station": "Kilrush"
+  },
+  "Castlegregory": {
+    "beach_id": "IESHBWC040_0000_0300",
+    "latitude": 52.261153705204094,
+    "longitude": -10.01157967156256,
+    "closest_tide_station": "Fenit"
+  },
+  "Fanore": {
+    "beach_id": "IESHBWC070_0000_0100",
+    "latitude": 53.119712081927005,
+    "longitude": -9.289819720825367,
+    "closest_tide_station": "Galway"
+  },
+  "Fenit": {
+    "beach_id": "IESHBWC040_0000_0250",
+    "latitude": 52.27554755954567,
+    "longitude": -9.866864833305966,
+    "closest_tide_station": "Fenit"
+  },
+  "Lahinch": {
+    "beach_id": "IESHBWC100_0000_0100",
+    "latitude": 52.93345669125097,
+    "longitude": -9.349745366122235,
+    "closest_tide_station": "Lahinch"
+  },
+  "Maharabeg": {
+    "beach_id": "IESHBWC040_0000_0400",
+    "latitude": 52.27589626542932,
+    "longitude": -10.024071893082583,
+    "closest_tide_station": "Fenit"
+  },
+  "Spanish Point": {
+    "beach_id": "IESHBWC070_0000_0300",
+    "latitude": 52.842109249617906,
+    "longitude": -9.434906381760534,
+    "closest_tide_station": "Lahinch"
+  },
+  "White Strand, Doonbeg": {
+    "beach_id": "IESHBWC080_0000_0100",
+    "latitude": 52.74805073324017,
+    "longitude": -9.54891433881775,
+    "closest_tide_station": "Kilrush"
+  },
+  "White Strand, Miltown Malbay": {
+    "beach_id": "IESHBWC070_0000_0200",
+    "latitude": 52.86828732605527,
+    "longitude": -9.42890901305242,
+    "closest_tide_station": "Lahinch"
+  },
+  "Grattan Road Beach": {
+    "beach_id": "IEWEBWT170_0700_0100",
+    "latitude": 53.259307561532744,
+    "longitude": -9.066015581806496,
+    "closest_tide_station": "Galway"
+  },
+  "Ballyloughane Beach": {
+    "beach_id": "IEWEBWT170_0700_0200",
+    "latitude": 53.26740697826525,
+    "longitude": -9.018315952631244,
+    "closest_tide_station": "Galway"
+  },
+  "Carrowniskey, Louisburgh": {
+    "beach_id": "IEWEBWC250_0000_0350",
+    "latitude": 53.735318616097295,
+    "longitude": -9.893972900357184,
+    "closest_tide_station": "Roonagh"
+  },
+  "Dunmoran Beach": {
+    "beach_id": "IEWEBWC450_0000_0200",
+    "latitude": 54.26383317597493,
+    "longitude": -8.7270867911695,
+    "closest_tide_station": "Sligo"
+  },
+  "Streedagh Beach": {
+    "beach_id": "IEWEBWC430_0000_0100",
+    "latitude": 54.40612879600636,
+    "longitude": -8.559588975950117,
+    "closest_tide_station": "Sligo"
+  },
+  "Claremont Beach": {
+    "beach_id": "IEEABWC070_0000_0500",
+    "latitude": 53.39034378205734,
+    "longitude": -6.076551666303802,
+    "closest_tide_station": "Howth"
+  },
+  "Trá Inis Oírr (Main Beach)": {
+    "beach_id": "IEWEBWC010_0000_0250",
+    "latitude": 53.06597356226159,
+    "longitude": -9.519194507375774,
+    "closest_tide_station": "Inishmore"
+  },
+  "Ballinesker": {
+    "beach_id": "IESEBWC010_0000_0250",
+    "latitude": 52.399528035785885,
+    "longitude": -6.357549656785274,
+    "closest_tide_station": "Wexford"
+  },
+  "Rush North Beach": {
+    "beach_id": "IEEABWC020_0000_0350",
+    "latitude": 53.52616218197098,
+    "longitude": -6.082676309893553,
+    "closest_tide_station": "Skerries"
+  },
+  "Magheraroarty": {
+    "beach_id": "IENWBWC100_0000_0300",
+    "latitude": 55.14596219889071,
+    "longitude": -8.171539895692467,
+    "closest_tide_station": "Tory_Island"
+  },
+  "Dooey": {
+    "beach_id": "IENWBWC120_0000_0200",
+    "latitude": 54.87346256716774,
+    "longitude": -8.391576188488493,
+    "closest_tide_station": "Aranmore"
+  },
+  "Carne": {
+    "beach_id": "IESEBWC050_0000_0300",
+    "latitude": 52.199711008676935,
+    "longitude": -6.348708046498455,
+    "closest_tide_station": "Rosslare"
+  },
+  "Seafield, Quilty": {
+    "beach_id": "IESHBWC070_0000_0350",
+    "latitude": 52.806652149976735,
+    "longitude": -9.493605504053214,
+    "closest_tide_station": "Lahinch"
+  },
+  "Ballyrisode": {
+    "beach_id": "BPNBF050000140001",
+    "latitude": 51.51187036578052,
+    "longitude": -9.661317209202503,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Galley Cove": {
+    "beach_id": "BPNBF050000150001",
+    "latitude": 51.4612287796375,
+    "longitude": -9.743613340046029,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Red Strand": {
+    "beach_id": "BPNBF050000170001",
+    "latitude": 51.54716856634777,
+    "longitude": -8.926894151738704,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Cadogans strand, Schull": {
+    "beach_id": "BPNBF050000200001",
+    "latitude": 51.53034090978489,
+    "longitude": -9.535373163623934,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Garnish": {
+    "beach_id": "BPNBF050000210001",
+    "latitude": 51.617094557088315,
+    "longitude": -10.134746412314652,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Inch (Cork)": {
+    "beach_id": "BPNBF050000220001",
+    "latitude": 51.7956099205995,
+    "longitude": -8.179207727616452,
+    "closest_tide_station": "Crosshaven"
+  },
+  "Ring (Greenlands Strand)": {
+    "beach_id": "BPNBF050000230001",
+    "latitude": 51.89353545230084,
+    "longitude": -7.8866406886452305,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Dooneen Pier": {
+    "beach_id": "BPNBF050000280001",
+    "latitude": 51.56460422316991,
+    "longitude": -9.730517543037218,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Oysterhaven": {
+    "beach_id": "BPNBF050000300001",
+    "latitude": 51.70238540984459,
+    "longitude": -8.438535874512004,
+    "closest_tide_station": "Kinsale"
+  },
+  "Rocky Bay": {
+    "beach_id": "BPNBF050000320001",
+    "latitude": 51.733897663599734,
+    "longitude": -8.330729774015227,
+    "closest_tide_station": "Crosshaven"
+  },
+  "Ardnahinch": {
+    "beach_id": "BPNBF050000330001",
+    "latitude": 51.847556487181286,
+    "longitude": -8.017746964759574,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Dog's Bay, Roundstone": {
+    "beach_id": "BPNBF120000140001",
+    "latitude": 53.3789925944707,
+    "longitude": -9.962930270352555,
+    "closest_tide_station": "Letterfrack"
+  },
+  "Dumhach": {
+    "beach_id": "BPNBF120000150001",
+    "latitude": 53.61476202399088,
+    "longitude": -10.180639494177106,
+    "closest_tide_station": "Letterfrack"
+  },
+  "East End Inisbofin": {
+    "beach_id": "BPNBF120000160001",
+    "latitude": 53.62285580372775,
+    "longitude": -10.189174059715995,
+    "closest_tide_station": "Letterfrack"
+  },
+  "An Trá Mór, Gorumna Island": {
+    "beach_id": "BPNBF120000180001",
+    "latitude": 53.25834236543636,
+    "longitude": -9.643039129326057,
+    "closest_tide_station": "Rossaveel"
+  },
+  "Mannin Bay, Ballyconneely": {
+    "beach_id": "BPNBF120000190001",
+    "latitude": 53.44270742833283,
+    "longitude": -10.063625323010852,
+    "closest_tide_station": "Letterfrack"
+  },
+  "Esker, Banagher": {
+    "beach_id": "BPNBF120000200001",
+    "latitude": 53.19882367410129,
+    "longitude": -8.033430644747106,
+    "closest_tide_station": "Galway"
+  },
+  "Glassilaun, Killary": {
+    "beach_id": "BPNBF120000210001",
+    "latitude": 53.6148717305629,
+    "longitude": -9.878527606452016,
+    "closest_tide_station": "Killary_Harbour"
+  },
+  "Renvyle": {
+    "beach_id": "BPNBF120000220001",
+    "latitude": 53.607121398035915,
+    "longitude": -9.984570569725436,
+    "closest_tide_station": "Letterfrack"
+  },
+  "Omey Island Strand": {
+    "beach_id": "BPNBF120000230001",
+    "latitude": 53.53538946585627,
+    "longitude": -10.149058668607367,
+    "closest_tide_station": "Letterfrack"
+  },
+  "Trá Poll na gCaorach Inis Oirr": {
+    "beach_id": "BPNBF120000240001",
+    "latitude": 53.055488688946504,
+    "longitude": -9.507013113806863,
+    "closest_tide_station": "Inishmore"
+  },
+  "Béal Bán": {
+    "beach_id": "BPNBF130000160001",
+    "latitude": 52.18087697223206,
+    "longitude": -10.406766571422036,
+    "closest_tide_station": "Dingle"
+  },
+  "Derrymore": {
+    "beach_id": "BPNBF130000170001",
+    "latitude": 52.23749085269019,
+    "longitude": -9.859030956852733,
+    "closest_tide_station": "Fenit"
+  },
+  "Waterville Town Beach": {
+    "beach_id": "BPNBF130000200001",
+    "latitude": 51.827879668708604,
+    "longitude": -10.174264301184662,
+    "closest_tide_station": "Castletownbere"
+  },
+  "Mornington": {
+    "beach_id": "BPNBF230000020001",
+    "latitude": 53.718796172515155,
+    "longitude": -6.243170946477433,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Annestown": {
+    "beach_id": "BPNBF310000100001",
+    "latitude": 52.13923800242098,
+    "longitude": -7.271818719472444,
+    "closest_tide_station": "Dunmore"
+  },
+  "Ballyquin": {
+    "beach_id": "BPNBF310000110001",
+    "latitude": 51.97274585469727,
+    "longitude": -7.700895644081407,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Ballyvooney": {
+    "beach_id": "BPNBF310000120001",
+    "latitude": 52.12719217044971,
+    "longitude": -7.442593802304322,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Boatstrand": {
+    "beach_id": "BPNBF310000130001",
+    "latitude": 52.135612843384365,
+    "longitude": -7.308564704437696,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Curragh": {
+    "beach_id": "BPNBF310000140001",
+    "latitude": 51.9659933478418,
+    "longitude": -7.710397640370441,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Goat Island": {
+    "beach_id": "BPNBF310000150001",
+    "latitude": 51.945554269612835,
+    "longitude": -7.761370356681865,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Guillamene": {
+    "beach_id": "BPNBF310000160001",
+    "latitude": 52.14416412432501,
+    "longitude": -7.16492835915537,
+    "closest_tide_station": "Dunmore"
+  },
+  "Kilfarrassey": {
+    "beach_id": "BPNBF310000170001",
+    "latitude": 52.13354566024382,
+    "longitude": -7.231619181666521,
+    "closest_tide_station": "Dunmore"
+  },
+  "Newtown Cove": {
+    "beach_id": "BPNBF310000180001",
+    "latitude": 52.14314036321852,
+    "longitude": -7.166305987448055,
+    "closest_tide_station": "Dunmore"
+  },
+  "Whiting Bay": {
+    "beach_id": "BPNBF310000190001",
+    "latitude": 51.95183798885564,
+    "longitude": -7.771270918831038,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Woodstown": {
+    "beach_id": "BPNBF310000200001",
+    "latitude": 52.191077267104625,
+    "longitude": -6.983045698860374,
+    "closest_tide_station": "Dunmore"
+  },
+  "Stradbally": {
+    "beach_id": "BPNBF310000210001",
+    "latitude": 52.12253016613254,
+    "longitude": -7.460449706201566,
+    "closest_tide_station": "Dungarvan"
+  },
+  "Cullenstown": {
+    "beach_id": "BPNBF330000130001",
+    "latitude": 52.216157775648504,
+    "longitude": -6.720554367346455,
+    "closest_tide_station": "Dunmore"
+  },
+  "Old Bawn": {
+    "beach_id": "BPNBF330000140001",
+    "latitude": 52.54768173604359,
+    "longitude": -6.20226765075288,
+    "closest_tide_station": "Arklow"
+  },
+  "Culletons Gap": {
+    "beach_id": "BPNBF330000150001",
+    "latitude": 52.37937848958932,
+    "longitude": -6.364040039794872,
+    "closest_tide_station": "Wexford"
+  },
+  "Cahore": {
+    "beach_id": "BPNBF330000180001",
+    "latitude": 52.56958931635125,
+    "longitude": -6.20262520981569,
+    "closest_tide_station": "Arklow"
+  },
+  "Ballyhealy": {
+    "beach_id": "BPNBF330000200001",
+    "latitude": 52.18655477346815,
+    "longitude": -6.522997446158209,
+    "closest_tide_station": "Rosslare"
+  },
+  "Booley Bay": {
+    "beach_id": "BPNBF330000210001",
+    "latitude": 52.20065407992572,
+    "longitude": -6.905351587253526,
+    "closest_tide_station": "Dunmore"
+  },
+  "Grange": {
+    "beach_id": "BPNBF330000220001",
+    "latitude": 52.1981479488229,
+    "longitude": -6.82876065073877,
+    "closest_tide_station": "Dunmore"
+  },
+  "St Helens Bay": {
+    "beach_id": "BPNBF330000230001",
+    "latitude": 52.23191242831607,
+    "longitude": -6.323126855329401,
+    "closest_tide_station": "Rosslare"
+  },
+  "Kilmore Quay Small Beach": {
+    "beach_id": "BPNBF330000250001",
+    "latitude": 52.17373750242099,
+    "longitude": -6.587463579648254,
+    "closest_tide_station": "Rosslare"
+  },
+  "Arklow South Beach": {
+    "beach_id": "BPNBF340000070001",
+    "latitude": 52.79242491146264,
+    "longitude": -6.138447484391154,
+    "closest_tide_station": "Arklow"
+  },
+  "Forty Foot Bathing Place": {
+    "beach_id": "IEEABWC090_0000_0040",
+    "latitude": 53.28954757755346,
+    "longitude": -6.113973191458486,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Sandycove Beach": {
+    "beach_id": "IEEABWC090_0000_0050",
+    "latitude": 53.28862477801071,
+    "longitude": -6.114718703971455,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "White Rock Beach": {
+    "beach_id": "IEEABWC100_0000_0450",
+    "latitude": 53.266012625664885,
+    "longitude": -6.106645683350039,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Silver Strand, Sherkin Island": {
+    "beach_id": "BPNBF050000400001",
+    "latitude": 51.47439193469369,
+    "longitude": -9.423860408259221,
+    "closest_tide_station": "Union_Hall"
+  },
+  "North Bull Wall": {
+    "beach_id": "BPNBF070000040003",
+    "latitude": 53.351874218981436,
+    "longitude": -6.16446400522299,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Shelley Banks": {
+    "beach_id": "BPNBF070000060001",
+    "latitude": 53.338818478077684,
+    "longitude": -6.182156269826319,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Kilcoole Beach": {
+    "beach_id": "BPNBF340000120001",
+    "latitude": 53.1062974682218,
+    "longitude": -6.040288414951327,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "South of Bray Harbour": {
+    "beach_id": "BPNBF340000090001",
+    "latitude": 53.20658296619737,
+    "longitude": -6.099209028140317,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Wicklow Harbour bathing area": {
+    "beach_id": "BPNBF340000100001",
+    "latitude": 52.98211745944006,
+    "longitude": -6.038172323598672,
+    "closest_tide_station": "Wicklow"
+  },
+  "Murrough Beach": {
+    "beach_id": "BPNBF340000110001",
+    "latitude": 52.99188585472762,
+    "longitude": -6.046874321551699,
+    "closest_tide_station": "Wicklow"
+  },
+  "Littor beach": {
+    "beach_id": "BPNBF130000190001",
+    "latitude": 52.57428918880556,
+    "longitude": -9.580871549691677,
+    "closest_tide_station": "Carrigaholt"
+  },
+  "Inchydoney East Beach": {
+    "beach_id": "IESWBWC100_0000_0150",
+    "latitude": 51.596916283752925,
+    "longitude": -8.859631457671034,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Cúas Crom": {
+    "beach_id": "IESWBWC230_0000_0500",
+    "latitude": 51.96463623748177,
+    "longitude": -10.26475107009279,
+    "closest_tide_station": "Dingle"
+  },
+  "Carrigaholt": {
+    "beach_id": "IESHBWC060_0000_0050",
+    "latitude": 52.60840948607227,
+    "longitude": -9.706136335111507,
+    "closest_tide_station": "Carrigaholt"
+  },
+  "Quilty": {
+    "beach_id": "IESHBWC070_0000_0330",
+    "latitude": 52.81883759051347,
+    "longitude": -9.4552925523105,
+    "closest_tide_station": "Lahinch"
+  },
+  "Trá na Reilige, An Cheathrú Rua": {
+    "beach_id": "BPNBF120000260001",
+    "latitude": 53.249522263879705,
+    "longitude": -9.57887565073951,
+    "closest_tide_station": "Rossaveel"
+  },
+  "Cromane": {
+    "beach_id": "BPNBF130000210001",
+    "latitude": 52.11388591358371,
+    "longitude": -9.90258750479361,
+    "closest_tide_station": "Fenit"
+  },
+  "Reenroe": {
+    "beach_id": "BPNBF130000220001",
+    "latitude": 51.84376135304294,
+    "longitude": -10.231453199586024,
+    "closest_tide_station": "Castletownbere"
+  },
+  "The Cove Arklow": {
+    "beach_id": "BPNBF340000130001",
+    "latitude": 52.78096323941244,
+    "longitude": -6.14513226218938,
+    "closest_tide_station": "Arklow"
+  },
+  "Aillebrack/Silverhill Beach": {
+    "beach_id": "IEWEBWC010_0000_0040",
+    "latitude": 53.41990566088411,
+    "longitude": -10.14887118739486,
+    "closest_tide_station": "Letterfrack"
+  },
+  "River Barrow Clashganny": {
+    "beach_id": "BPNBF010000010001",
+    "latitude": 52.56174625142676,
+    "longitude": -6.915049660232024,
+    "closest_tide_station": "Wexford"
+  },
+  "River Barrow Bagenalstown": {
+    "beach_id": "BPNBF010000020001",
+    "latitude": 52.707755392530856,
+    "longitude": -6.9546620132623485,
+    "closest_tide_station": "Wexford"
+  },
+  "Portacloy Beach": {
+    "beach_id": "BPNBF220000170001",
+    "latitude": 54.33179264673838,
+    "longitude": -9.783084612203261,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Srah Beach": {
+    "beach_id": "BPNBF220000190001",
+    "latitude": 54.1721450917791,
+    "longitude": -9.956818307135668,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Termon Beach": {
+    "beach_id": "BPNBF220000200001",
+    "latitude": 54.11323071998068,
+    "longitude": -10.092295369136895,
+    "closest_tide_station": "Achill_Island"
+  },
+  "Tránaun Beach, Inishturk": {
+    "beach_id": "BPNBF220000260001",
+    "latitude": 53.70414652100136,
+    "longitude": -10.091663194337055,
+    "closest_tide_station": "Roonagh"
+  },
+  "Cross Beach, Belmullet": {
+    "beach_id": "BPNBF220000350001",
+    "latitude": 54.20743892169299,
+    "longitude": -10.084362124247894,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Merrion Strand": {
+    "beach_id": "BPNBF070000020002",
+    "latitude": 53.316364651400086,
+    "longitude": -6.203699713692962,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Ballynamona Strand": {
+    "beach_id": "BPNBF050000420001",
+    "latitude": 51.8441319263808,
+    "longitude": -8.020313890754167,
+    "closest_tide_station": "Ballycotton"
+  },
+  "Oileán Chléire (Cork)": {
+    "beach_id": "BPNBF050000410001",
+    "latitude": 51.434690248499365,
+    "longitude": -9.50022471899767,
+    "closest_tide_station": "Union_Hall"
+  },
+  "Clifden Beach": {
+    "beach_id": "BPNBF120000060002",
+    "latitude": 53.485103318621384,
+    "longitude": -10.04757283227997,
+    "closest_tide_station": "Letterfrack"
+  },
+  "Rosslare Harbour": {
+    "beach_id": "BPNBF330000270001",
+    "latitude": 52.25119212281477,
+    "longitude": -6.330819841457942,
+    "closest_tide_station": "Rosslare"
+  },
+  "Half Moon": {
+    "beach_id": "IEEABWC090_0000_0350",
+    "latitude": 53.34110279754851,
+    "longitude": -6.164085980753935,
+    "closest_tide_station": "Dublin_Port"
+  },
+  "Trá Saorphort (Bóithrín Mags), Bearna": {
+    "beach_id": "IEWEBWC170_0000_0010",
+    "latitude": 53.2502657806013,
+    "longitude": -9.145719304862059,
+    "closest_tide_station": "Galway"
+  },
+  "The Cove Greystones": {
+    "beach_id": "IEEABWC100_0000_0220",
+    "latitude": 53.14904785733763,
+    "longitude": -6.062258844542528,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Dromineer Beach": {
+    "beach_id": "IESHBWL25_191a_0190",
+    "latitude": 52.924750093581906,
+    "longitude": -8.27971187478212,
+    "closest_tide_station": "Galway"
+  },
+  "Cross Beach Louisburgh": {
+    "beach_id": "BPNBF220000340001",
+    "latitude": 53.705435159978364,
+    "longitude": -9.912409646793709,
+    "closest_tide_station": "Roonagh"
+  },
+  "Silver Strand Louisburgh": {
+    "beach_id": "BPNBF220000110002",
+    "latitude": 53.64749130923508,
+    "longitude": -9.888779363173336,
+    "closest_tide_station": "Killary_Harbour"
+  },
+  "Tallaghbawn (White Strand) Louisburgh": {
+    "beach_id": "BPNBF220000210001",
+    "latitude": 53.6720778816643,
+    "longitude": -9.910807679807984,
+    "closest_tide_station": "Killary_Harbour"
+  },
+  "Gormanston Beach": {
+    "beach_id": "BPNBF230000030001",
+    "latitude": 53.64136747741389,
+    "longitude": -6.210523580070151,
+    "closest_tide_station": "Skerries"
+  },
+  "Dun Laoghaire Baths": {
+    "beach_id": "IEEABWC090_0000_0060",
+    "latitude": 53.29139082232773,
+    "longitude": -6.12771993020409,
+    "closest_tide_station": "Bray_Harbour"
+  },
+  "Belmullet Tidal Pool  & Shore Road Bathing Area": {
+    "beach_id": "IEWEBWC360_0000_0500",
+    "latitude": 54.2173297399878,
+    "longitude": -9.990445797389453,
+    "closest_tide_station": "Ballyglass"
+  },
+  "Lough Muckno Bathing Area": {
+    "beach_id": "BPNBF240000030001",
+    "latitude": 54.119880791127684,
+    "longitude": -6.728917700259327,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Lough Muckno  Water Sports Area": {
+    "beach_id": "BPNBF240000100001",
+    "latitude": 54.11699302754863,
+    "longitude": -6.72686506253993,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Hollywood Lake": {
+    "beach_id": "BPNBF240000020001",
+    "latitude": 54.265881740891594,
+    "longitude": -7.067453133902082,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Halton's River (Dromore Lake System)": {
+    "beach_id": "BPNBF240000040001",
+    "latitude": 54.083024686437255,
+    "longitude": -7.085739176344134,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Greaghlone Lake": {
+    "beach_id": "BPNBF240000050001",
+    "latitude": 53.97093236116889,
+    "longitude": -6.8481486770179245,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Creevy Lake": {
+    "beach_id": "BPNBF240000060001",
+    "latitude": 54.006240005132305,
+    "longitude": -6.733680968362989,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Emy Lough": {
+    "beach_id": "BPNBF240000070001",
+    "latitude": 54.33525199724628,
+    "longitude": -6.936699608667303,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Lough Major - the beach": {
+    "beach_id": "BPNBF240000080001",
+    "latitude": 54.12938592096296,
+    "longitude": -6.894451523222748,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Gortnawinney Lake": {
+    "beach_id": "BPNBF240000090001",
+    "latitude": 54.20249111176178,
+    "longitude": -7.21357100988358,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Lough Muckno _Black Island Point": {
+    "beach_id": "BPNBF240000110001",
+    "latitude": 54.12048751184517,
+    "longitude": -6.725121417283321,
+    "closest_tide_station": "Port_Oriel"
+  },
+  "Baginbun": {
+    "beach_id": "IESEBWC050_0000_0235",
+    "latitude": 52.17634223045554,
+    "longitude": -6.829392198430908,
+    "closest_tide_station": "Dunmore"
+  }
+}

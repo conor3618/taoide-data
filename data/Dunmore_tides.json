@@ -351,6 +351,6 @@
     "2026-06-08T04:30",
     "2026-06-08T16:50"
   ],
-  "generated_at_utc": "2026-03-11T21:48:14Z",
+  "generated_at_utc": "2026-03-11T22:04:55Z",
   "source_url": "https://erddap.marine.ie/erddap/tabledap/IMI_TidePrediction_HighLow.json?stationID%2Ctime%2Clongitude%2Clatitude%2Ctide_time_category&time%3E=2026-03-11T00%3A00%3A00Z&time%3C=2026-06-09T00%3A00%3A00Z&distinct()"
 }
