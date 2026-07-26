@@ -3,8 +3,6 @@
   "longitude": -9.66,
   "latitude": 53.126,
   "high_tides_utc": [
-    "2026-07-25T14:25",
-    "2026-07-26T03:05",
     "2026-07-26T15:20",
     "2026-07-27T03:50",
     "2026-07-27T16:00",
@@ -175,11 +173,11 @@
     "2026-10-21T01:30",
     "2026-10-21T13:40",
     "2026-10-22T02:20",
-    "2026-10-22T14:25"
+    "2026-10-22T14:25",
+    "2026-10-23T03:00",
+    "2026-10-23T15:05"
   ],
   "low_tides_utc": [
-    "2026-07-25T08:15",
-    "2026-07-25T20:50",
     "2026-07-26T09:10",
     "2026-07-26T21:35",
     "2026-07-27T09:50",
@@ -351,8 +349,10 @@
     "2026-10-21T07:35",
     "2026-10-21T20:00",
     "2026-10-22T08:20",
-    "2026-10-22T20:40"
+    "2026-10-22T20:40",
+    "2026-10-23T08:55",
+    "2026-10-23T21:10"
   ],
-  "generated_at_utc": "2026-07-25T08:08:18Z",
-  "source_url": "https://erddap.marine.ie/erddap/tabledap/IMI_TidePrediction_HighLow.json?stationID%2Ctime%2Clongitude%2Clatitude%2Ctide_time_category&time%3E=2026-07-25T00%3A00%3A00Z&time%3C=2026-10-23T00%3A00%3A00Z&distinct()"
+  "generated_at_utc": "2026-07-26T08:28:21Z",
+  "source_url": "https://erddap.marine.ie/erddap/tabledap/IMI_TidePrediction_HighLow.json?stationID%2Ctime%2Clongitude%2Clatitude%2Ctide_time_category&time%3E=2026-07-26T00%3A00%3A00Z&time%3C=2026-10-24T00%3A00%3A00Z&distinct()"
 }
